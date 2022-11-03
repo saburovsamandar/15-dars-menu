@@ -262,18 +262,26 @@ a{
 }
 @media (max-width: 1252px) {
     .container{
-        width: 1200px;
+        width: 792px;
     }
 
     .menu{
         
+    }
+   .gallery__btn_img1{
+        display: none;
+
+    }
+
+    .gallery__btn_img2{
+        display: none;
     }
 
 }
 
 @media (max-width: 1140px) {
     .container{
-        width: 900px;
+        width: 723px;
         padding: 0 15px;
 
     }
@@ -297,6 +305,11 @@ a{
         margin-right: auto;
     }
 
+    .gallery__btn_img3{
+        display: none;
+    }
+
+ 
 
 }
 
