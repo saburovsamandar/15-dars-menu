@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');  
+/* font-family: 'Open Sans', sans-serif; */
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+/* font-family: 'Open Sans', sans-serif; */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+/* font-family: 'Inter', sans-serif; */
+ @font-face {
+    font-family:'Cera Round Pro';
+    src: url(../font-Cera-Round-Pro/Fontspring-DEMO-ceraroundpro-black.otf);
+ }
+
+* , *::after,*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 15px;
+}
